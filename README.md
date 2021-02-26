@@ -1,4 +1,4 @@
-# twitter-clone
+# twotter-tutorial
 
 ## Project setup
 ```
